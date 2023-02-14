@@ -1,0 +1,11 @@
+C:\Users\ACER\Downloads\HTMLEncodeDecode\HTMLEncodeDecode\bin\Debug\HTMLEncodeDecode.exe.config
+C:\Users\ACER\Downloads\HTMLEncodeDecode\HTMLEncodeDecode\bin\Debug\HTMLEncodeDecode.exe
+C:\Users\ACER\Downloads\HTMLEncodeDecode\HTMLEncodeDecode\bin\Debug\HTMLEncodeDecode.pdb
+C:\Users\ACER\Downloads\HTMLEncodeDecode\HTMLEncodeDecode\obj\Debug\HTMLEncodeDecode.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\HTMLEncodeDecode\HTMLEncodeDecode\obj\Debug\HTMLEncodeDecode.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Downloads\HTMLEncodeDecode\HTMLEncodeDecode\obj\Debug\HTMLEncodeDecode.Form1.resources
+C:\Users\ACER\Downloads\HTMLEncodeDecode\HTMLEncodeDecode\obj\Debug\HTMLEncodeDecode.Properties.Resources.resources
+C:\Users\ACER\Downloads\HTMLEncodeDecode\HTMLEncodeDecode\obj\Debug\HTMLEncodeDecode.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\HTMLEncodeDecode\HTMLEncodeDecode\obj\Debug\HTMLEncodeDecode.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\HTMLEncodeDecode\HTMLEncodeDecode\obj\Debug\HTMLEncodeDecode.exe
+C:\Users\ACER\Downloads\HTMLEncodeDecode\HTMLEncodeDecode\obj\Debug\HTMLEncodeDecode.pdb
